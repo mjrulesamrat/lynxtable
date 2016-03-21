@@ -1,0 +1,23 @@
+form {
+    font-family: 'Arial', 'Helvetica', sans-serif;
+    background: #FFFFFF;
+    padding: 15px;
+    min-height: 320px;
+    margin: auto;
+}
+
+.chx_tab_options {
+    text-align: center;
+}
+
+.chx_display_name {
+    width: 400px;
+}
+
+.chx_body_html {
+    width: 100%;
+}
+
+.chx_body_css {
+    width: 100%;
+}

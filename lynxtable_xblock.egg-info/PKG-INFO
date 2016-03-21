@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: lynxtable-xblock
+Version: 0.1
+Summary: lynxtable XBlock
+Home-page: UNKNOWN
+Author: Jay Modi
+Author-email: mjrulesamrat@outlook.com
+License: GNU
+Description: LynxTable XBlock to create tables from studio using ckeditor
+Platform: Django OpenEDX
